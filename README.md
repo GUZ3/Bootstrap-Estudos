@@ -26,7 +26,7 @@ O Bootstrap é um framework front-end bastante utilizado para acelerar o desenvo
 <br>✔ Integrar Bootstrap com HTML, CSS e JavaScript
 <br>✔ Melhorar a organização de código utilizando Git e GitHub
 
---
+---
 
 ## 🛠 Tecnologias Utilizadas
 Tecnologia	Descrição
@@ -35,11 +35,18 @@ CSS	Estilização e ajustes personalizados
 Bootstrap	Framework para layout e componentes responsivos
 JavaScript	Interatividade das páginas
 Git/GitHub	Versionamento e armazenamento do projeto
-▶ Como Visualizar os Arquivos
-
+| Tecnologia | Descrição |
+|------------|-----------|
+| HTML       | Estrutura das páginas web |
+| CSS        | Estilização e ajustes personalizados |
+| Bootstrap  | Framework para layout e componentes responsivos |
+| JavaScript | Interatividade das páginas |
+| Git/GitHub | Versionamento e armazenamento do projeto |
 ---
 
-## 1️⃣ Clone o repositório:
+## ▶ Como Visualizar os Arquivos
+
+1️⃣ Clone o repositório:
 
 git clone https://github.com/GUZ3/Bootstrap-Estudos.git
 
