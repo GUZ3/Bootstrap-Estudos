@@ -20,9 +20,9 @@ O Bootstrap é um framework front-end bastante utilizado para acelerar o desenvo
 ## 🚀 Objetivos de Aprendizagem
 
 ✔ Aprender os conceitos básicos do Bootstrap
-<br>✔ Criar layouts responsivos utilizando o sistema de grid
+<br>✔ Criar layouts responsivos
 <br>✔ Utilizar componentes prontos como cards, botões e navbar
-<br>✔ Integrar Bootstrap com HTML, CSS e JavaScript
+<br>✔ Integrar Bootstrap com HTML
 <br>✔ Melhorar a organização de código utilizando Git e GitHub
 
 ---
@@ -32,14 +32,12 @@ Tecnologia	Descrição
 HTML	Estrutura das páginas web
 CSS	Estilização e ajustes personalizados
 Bootstrap	Framework para layout e componentes responsivos
-JavaScript	Interatividade das páginas
 Git/GitHub	Versionamento e armazenamento do projeto
 | Tecnologia | Descrição |
 |------------|-----------|
 | HTML       | Estrutura das páginas web |
 | CSS        | Estilização e ajustes personalizados |
 | Bootstrap  | Framework para layout e componentes responsivos |
-| JavaScript | Interatividade das páginas |
 | Git/GitHub | Versionamento e armazenamento do projeto |
 ---
 
