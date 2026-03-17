@@ -11,9 +11,8 @@ O Bootstrap é um framework front-end bastante utilizado para acelerar o desenvo
 ## 🗂 Estrutura do Projeto
 
  📁 Bootstrap-Estudos
-<br>┣ 📁 exercicios → Exercícios práticos utilizando Bootstrap
-<br>┣ 📁 exemplos → Exemplos de componentes e layouts
-<br>┣ 📁 layouts → Testes de páginas responsivas com Bootstrap
+<br>┣ 📁 Aulas de 01 a 04 são exercícios desenvolvidos para aprendizado e testes
+<br>┣ 📁 Templates → Páginas prontas tiradas direto da documentação oficial do Bootstrap
 <br>┗ 📄 README.md → Documentação do repositório
 
 ---
